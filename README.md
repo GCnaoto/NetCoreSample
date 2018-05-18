@@ -1,0 +1,2 @@
+# NetCoreSample
+.Net Core Sample
